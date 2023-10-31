@@ -1,6 +1,5 @@
 class script(object):
     START_TXT = """👋 Hello {},  Me :), An Autofilter who can provide you movies in your groups"""
-    HELP_TXT = """<i>🙋🏻‍♂️ Here is my help menu"""
     ABOUT_TXT = """<b> My Name : {}
 🕵‍♂ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Clause07'>DEKU</a>
 📚 Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
