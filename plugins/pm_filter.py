@@ -437,7 +437,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
-        await query.answer('BY @Clause07'
+        await query.answer('BY @Clause07')
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('🔖 Updates', url='https://t.me/the_aecr'),
